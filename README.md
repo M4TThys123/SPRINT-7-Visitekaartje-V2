@@ -1,7 +1,7 @@
 # 🚀 Visitekaart v2
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
 
-## Inhoudsopgave
+## 📙 Inhoudsopgave
 
   * [Beschrijving](#beschrijving)
   * [Kenmerken](#kenmerken)
@@ -11,20 +11,50 @@
   * [Licentie](#licentie)
 
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+![Wireflow](https://github.com/M4TThys123/SPRINT-8-Coding-the-Curbs/blob/main/assets/IMG_2139.JPG)
+[🌐 Live Versie](https://m4tthys123.github.io/keep-users-in-control-coding-the-curbs/)
+
 
 ## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
 
-## Installatie
+- 💻 Visual Studio Code
+- ✍️ Illustrator
+- 🤳 Photoshop
+- 🖌️ XD
+- 🐼 Draw.io
+- ✍️ Pen & Papier
 
-## Gebruik
+**Code Skills:**
 
-## Bronnen
+- 💀 HTML5
+- 🧍 CSS3
+- ⚽ JavaScript
+- 💾 API data
+- 😜 Data rendering
+- 
+## 💥 Installatie
 
-## Licentie
+Installeren met de Terminal
+
+```
+git clone https://github.com/M4TThys123/SPRINT-7-Visitekaartje-V2.git
+cd M4TThys123/SPRINT-7-Visitekaartje-V2
+```
+
+Installeren met SSH
+
+```
+git@https://github.com/M4TThys123/SPRINT-7-Visitekaartje-V2.git
+cd M4TThys123/SPRINT-7-Visitekaartje-V2
+```
+
+## 🚊 Gebruik
+
+n.v.t
+
+## 🥇 Bronnen
+
+## 🦹‍♂️ Licentie
 
 ![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
 
